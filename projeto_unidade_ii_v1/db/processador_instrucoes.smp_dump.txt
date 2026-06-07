@@ -1,0 +1,10 @@
+
+State Machine - |rtl|controlador:U2_CONTROLADOR|estado_atual
+Name estado_atual.EXEC_11 estado_atual.EXEC_10 estado_atual.EXEC_01 estado_atual.EXEC_00 estado_atual.DECODIFICACAO estado_atual.BUSCA estado_atual.INICIO 
+estado_atual.INICIO 0 0 0 0 0 0 0 
+estado_atual.BUSCA 0 0 0 0 0 1 1 
+estado_atual.DECODIFICACAO 0 0 0 0 1 0 1 
+estado_atual.EXEC_00 0 0 0 1 0 0 1 
+estado_atual.EXEC_01 0 0 1 0 0 0 1 
+estado_atual.EXEC_10 0 1 0 0 0 0 1 
+estado_atual.EXEC_11 1 0 0 0 0 0 1 
